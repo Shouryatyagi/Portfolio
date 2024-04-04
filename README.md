@@ -1,2 +1,2 @@
 # Portfolio
-Code is inside in master branch
+Code is in the master branch
