@@ -176,6 +176,12 @@ section {
   margin: auto 0;
 }
 
+
+.section__pic-container:hover{
+  box-shadow: 3px 5px 6px rgba(6, 0, 0, 0.3); 
+
+}
+
 .section__text {
   align-self: center;
   text-align: center;
